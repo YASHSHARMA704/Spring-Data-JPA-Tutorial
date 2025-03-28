@@ -23,10 +23,8 @@ This repository provides a **comprehensive tutorial** on **Spring Data JPA** usi
 - [🌟 Features](#-features)
 - [⚙️ Technologies Used](#-technologies-used)
 - [🚀 Getting Started](#-getting-started)
-- [🛠️ Installation](#-installation)
 - [📌 Usage](#-usage)
 - [📚 Topics Covered](#-topics-covered)
-- [📂 Project Structure](#-project-structure)
 
 ---
 
